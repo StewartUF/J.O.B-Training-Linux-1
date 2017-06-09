@@ -1,0 +1,15 @@
+total 112
+drwxr-xr-x  13 swehmeyer  staff    442 May 23 16:37 ..
+-rw-r--r--   1 swehmeyer  staff    271 May 23 16:37 phonebook.csv
+-rw-r--r--   1 swehmeyer  staff   1909 May 23 16:37 gettysburg-address.txt
+-rw-r--r--   1 swehmeyer  staff   2228 May 23 16:37 exercise5.md
+-rw-r--r--   1 swehmeyer  staff   4203 May 23 16:37 exercise4.md
+-rw-r--r--   1 swehmeyer  staff   3122 May 23 16:37 exercise3.md
+-rw-r--r--   1 swehmeyer  staff   2646 May 23 16:37 exercise2.md
+-rw-r--r--   1 swehmeyer  staff    149 May 23 16:37 cutpractice.txt
+-rw-r--r--   1 swehmeyer  staff   6478 May 23 16:37 README.md
+-rw-r--r--   1 swehmeyer  staff  11357 May 23 16:37 LICENSE
+drwxr-xr-x  12 swehmeyer  staff    408 May 23 16:37 .git
+-rw-r--r--   1 swehmeyer  staff     45 May 30 09:37 pwd.txt
+-rw-r--r--   1 swehmeyer  staff      0 May 30 10:04 ls.txt
+drwxr-xr-x  14 swehmeyer  staff    476 May 30 10:04 .

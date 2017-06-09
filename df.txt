@@ -1,0 +1,7 @@
+Filesystem                                  Size   Used  Avail Capacity   iused      ifree %iused  Mounted on
+/dev/disk1                                 465Gi   45Gi  419Gi    10%    964155 4294003124    0%   /
+devfs                                      183Ki  183Ki    0Bi   100%       634          0  100%   /dev
+map -hosts                                   0Bi    0Bi    0Bi   100%         0          0  100%   /net
+map auto_home                                0Bi    0Bi    0Bi   100%         0          0  100%   /home
+localhost:/NVNqCGu0iJaX5Vj2HiOS21          465Gi  465Gi    0Bi   100%         0          0  100%   /Volumes/MobileBackups
+//swehmeyer@ctsi.ahc.ufl.edu/ctsi$/cts-it  2.0Ti  1.7Ti  345Gi    84% 111626000   22591726   83%   /Volumes/ctsi$
